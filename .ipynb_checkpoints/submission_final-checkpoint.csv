@@ -42,7 +42,7 @@ Id,FreePass
 01/1201,False
 01/5080,False
 03/4048,True
-01/4604,True
+01/4604,False
 01/5508,False
 01/3671,False
 02/6193,True
@@ -302,7 +302,7 @@ Id,FreePass
 01/7982,True
 01/7011,False
 01/0954,False
-01/5633,True
+01/5633,False
 07/8988,False
 01/0196,False
 01/6572,False
@@ -319,7 +319,7 @@ Id,FreePass
 01/9270,True
 01/8583,True
 01/1406,False
-01/3368,True
+01/3368,False
 01/7036,True
 01/2109,True
 01/8622,False
@@ -331,7 +331,7 @@ Id,FreePass
 01/6662,True
 01/2813,True
 02/6342,False
-01/9106,False
+01/9106,True
 02/6858,True
 01/2698,False
 01/7097,True
@@ -416,7 +416,7 @@ Id,FreePass
 01/0392,False
 01/6901,False
 01/8959,True
-03/7950,False
+03/7950,True
 01/0482,False
 01/0821,True
 01/2115,True
@@ -469,7 +469,7 @@ Id,FreePass
 01/8783,False
 01/8467,True
 01/3997,False
-01/0269,False
+01/0269,True
 01/2600,False
 05/3195,True
 01/7467,False
@@ -509,7 +509,7 @@ Id,FreePass
 02/1159,False
 04/2997,True
 01/0947,False
-01/3125,False
+01/3125,True
 01/7492,False
 02/2715,False
 01/2984,False
@@ -520,11 +520,11 @@ Id,FreePass
 01/8286,True
 01/4612,True
 01/0609,False
-01/0436,False
+01/0436,True
 01/4923,True
 01/6323,False
 07/4661,False
-01/6782,False
+01/6782,True
 02/2508,True
 01/6240,True
 01/6983,True
@@ -535,7 +535,7 @@ Id,FreePass
 01/3807,True
 01/2839,True
 03/3292,True
-01/0256,False
+01/0256,True
 01/1219,False
 01/0278,False
 01/4135,False
@@ -595,7 +595,7 @@ Id,FreePass
 01/8595,True
 01/4796,False
 01/6192,False
-02/8366,True
+02/8366,False
 01/8011,True
 01/9019,False
 04/6744,True
@@ -711,7 +711,7 @@ Id,FreePass
 04/2307,True
 02/6428,True
 01/6063,True
-03/0108,False
+03/0108,True
 01/5578,True
 01/4254,True
 01/6838,True
@@ -719,11 +719,11 @@ Id,FreePass
 02/8204,True
 01/4792,True
 01/8862,True
-06/0992,True
+06/0992,False
 02/0465,False
 01/4304,False
 01/3486,True
-02/1211,True
+02/1211,False
 01/4178,False
 01/3827,False
 01/8756,False
@@ -742,7 +742,7 @@ Id,FreePass
 03/2558,False
 01/4014,False
 01/0972,False
-01/4221,False
+01/4221,True
 01/3646,True
 04/6111,True
 01/7699,True
@@ -782,7 +782,7 @@ Id,FreePass
 01/6822,False
 01/3890,True
 01/3771,False
-02/3104,True
+02/3104,False
 01/8507,False
 01/6170,False
 01/6740,False
@@ -814,11 +814,11 @@ Id,FreePass
 01/7987,False
 01/6067,False
 01/8475,True
-01/3447,True
+01/3447,False
 04/2892,False
 01/3567,False
 01/1853,True
-02/8027,False
+02/8027,True
 01/0707,True
 01/7672,False
 02/6295,True
@@ -855,7 +855,7 @@ Id,FreePass
 01/3778,False
 02/8181,False
 01/8861,True
-02/1262,False
+02/1262,True
 07/6334,True
 02/5927,False
 07/2384,True
@@ -888,7 +888,7 @@ Id,FreePass
 01/1797,True
 01/6415,True
 01/0713,False
-02/2795,False
+02/2795,True
 03/2487,False
 01/8610,True
 02/7103,True
@@ -923,7 +923,7 @@ Id,FreePass
 01/5064,False
 02/3928,True
 01/8528,False
-02/0108,True
+02/0108,False
 02/0652,False
 03/4732,True
 01/6829,True
@@ -961,7 +961,7 @@ Id,FreePass
 03/6672,False
 01/3184,True
 01/5186,False
-01/6818,True
+01/6818,False
 01/2123,True
 01/0017,True
 01/2476,False
@@ -989,11 +989,11 @@ Id,FreePass
 02/6402,True
 01/5945,True
 05/5885,True
-01/5306,False
+01/5306,True
 01/1715,True
 01/6368,False
 01/4397,True
-01/4447,True
+01/4447,False
 01/0289,True
 01/4979,True
 01/5279,False
@@ -1011,7 +1011,7 @@ Id,FreePass
 01/4939,False
 01/3144,False
 01/3247,False
-03/2637,False
+03/2637,True
 04/5024,False
 02/6988,True
 01/9133,True
@@ -1030,7 +1030,7 @@ Id,FreePass
 01/6008,False
 01/2980,False
 02/3713,True
-01/8108,False
+01/8108,True
 01/7809,True
 03/3008,True
 01/6710,True
@@ -1046,7 +1046,7 @@ Id,FreePass
 01/5602,True
 01/7016,True
 01/5261,True
-01/4496,False
+01/4496,True
 02/1027,False
 03/5112,True
 01/1837,True
@@ -1054,7 +1054,7 @@ Id,FreePass
 01/0103,False
 03/8989,True
 02/2768,False
-01/3203,True
+01/3203,False
 01/7553,False
 02/0064,True
 01/5504,False
@@ -1147,7 +1147,7 @@ Id,FreePass
 02/1669,True
 02/5842,True
 03/4359,False
-01/4183,True
+01/4183,False
 01/3279,True
 01/2391,False
 01/5050,False
@@ -1193,7 +1193,7 @@ Id,FreePass
 01/3623,False
 02/2719,True
 02/3245,False
-01/7236,True
+01/7236,False
 03/2215,True
 02/5698,False
 03/7186,False
@@ -1204,10 +1204,10 @@ Id,FreePass
 08/4256,False
 01/8902,True
 01/4094,False
-05/0652,False
+05/0652,True
 01/4829,False
 01/0892,True
-01/6319,False
+01/6319,True
 01/2594,True
 01/1767,True
 01/4497,True
@@ -1254,7 +1254,7 @@ Id,FreePass
 01/2398,False
 02/0175,False
 01/2049,True
-02/4705,False
+02/4705,True
 01/4853,True
 01/2487,True
 02/0731,False
@@ -1285,7 +1285,7 @@ Id,FreePass
 01/3560,False
 04/6028,False
 01/6223,False
-01/5616,False
+01/5616,True
 05/4663,True
 01/0520,False
 01/7604,True
@@ -1433,7 +1433,7 @@ Id,FreePass
 02/6406,True
 02/6005,True
 01/1611,False
-01/6560,False
+01/6560,True
 01/0994,True
 05/5414,True
 02/7421,False
@@ -1446,7 +1446,7 @@ Id,FreePass
 02/5662,False
 02/4352,True
 05/5329,False
-01/7264,True
+01/7264,False
 01/5695,True
 01/4801,True
 07/1072,True
@@ -1516,8 +1516,8 @@ Id,FreePass
 01/5162,True
 01/3111,False
 01/1854,True
-01/6802,False
-01/2244,False
+01/6802,True
+01/2244,True
 01/2087,False
 01/1244,True
 01/2084,False
@@ -1657,7 +1657,7 @@ Id,FreePass
 01/7505,False
 01/5643,False
 04/6468,False
-01/2198,False
+01/2198,True
 03/0925,True
 02/3622,False
 01/2240,True
@@ -1703,7 +1703,7 @@ Id,FreePass
 01/6967,False
 02/5056,False
 01/2262,False
-01/3040,True
+01/3040,False
 01/1897,False
 01/4991,False
 01/8483,True
@@ -1786,7 +1786,7 @@ Id,FreePass
 02/9205,True
 02/4070,True
 02/2477,True
-01/8045,True
+01/8045,False
 01/0371,True
 01/2156,False
 01/1365,False
@@ -1966,7 +1966,7 @@ Id,FreePass
 01/3982,False
 01/3954,True
 01/6254,True
-01/4839,False
+01/4839,True
 01/1822,False
 01/5384,True
 02/8398,True
@@ -2137,7 +2137,7 @@ Id,FreePass
 01/7529,True
 01/4601,True
 01/0146,False
-01/7820,False
+01/7820,True
 01/8146,True
 01/0845,True
 01/7053,False
@@ -2154,7 +2154,7 @@ Id,FreePass
 01/9066,False
 01/6637,False
 01/8913,True
-02/8129,False
+02/8129,True
 01/7728,False
 03/3868,False
 02/4523,True
@@ -2172,7 +2172,7 @@ Id,FreePass
 02/2505,False
 02/2343,True
 01/1516,False
-01/6297,False
+01/6297,True
 01/2762,False
 05/8770,False
 01/7251,True
@@ -2267,9 +2267,9 @@ Id,FreePass
 04/6921,True
 04/9081,False
 02/2808,True
-01/3584,True
+01/3584,False
 02/6340,False
-01/5760,True
+01/5760,False
 01/1024,False
 01/3322,True
 02/7858,False
@@ -2381,7 +2381,7 @@ Id,FreePass
 01/3155,True
 02/3876,True
 01/7392,True
-01/0758,True
+01/0758,False
 06/2234,True
 01/8350,False
 01/2300,False
@@ -2407,7 +2407,7 @@ Id,FreePass
 03/4006,False
 01/8504,False
 01/8162,False
-01/3669,False
+01/3669,True
 01/4578,False
 02/6583,True
 01/8037,False
@@ -2549,7 +2549,7 @@ Id,FreePass
 01/8023,False
 01/6524,False
 01/5825,True
-02/6977,True
+02/6977,False
 01/4751,False
 01/6583,True
 01/3891,False
@@ -2572,7 +2572,7 @@ Id,FreePass
 01/2513,False
 01/4728,False
 01/2725,False
-04/0504,True
+04/0504,False
 01/5492,False
 01/6888,True
 01/1143,False
@@ -2580,7 +2580,7 @@ Id,FreePass
 01/3879,False
 04/3858,False
 01/8388,False
-01/9262,False
+01/9262,True
 01/0589,False
 01/2041,True
 01/6666,False
@@ -2608,7 +2608,7 @@ Id,FreePass
 02/2040,True
 01/6894,True
 01/8762,False
-01/2683,False
+01/2683,True
 05/1976,True
 01/8639,True
 02/8998,False
@@ -2813,7 +2813,7 @@ Id,FreePass
 01/1035,False
 02/3889,True
 01/8685,True
-02/1670,True
+02/1670,False
 01/6440,True
 01/8221,True
 01/2864,False
@@ -2831,7 +2831,7 @@ Id,FreePass
 01/6615,True
 01/8484,True
 01/6587,True
-01/8168,False
+01/8168,True
 01/3077,True
 01/3084,True
 01/1718,True
@@ -2845,7 +2845,7 @@ Id,FreePass
 01/7640,True
 01/1147,True
 01/4932,False
-06/4582,True
+06/4582,False
 01/6937,True
 01/2589,True
 01/4513,True
